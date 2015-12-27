@@ -16,3 +16,8 @@ chroot will get created in /var/lib/schroot/chroots/vivid-armhf
 ```
 sudo sbuild-shell vivid-armhf
 ```
+
+Use snappy tools to build the snap
+```
+snapcraft
+```

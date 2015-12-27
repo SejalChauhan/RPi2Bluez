@@ -1,8 +1,7 @@
 name: bluetooth
 version: 1.0
 architectures: [armhf, amd64]
-# The vendor for the snap (replace 'Vendor <email@example.com>')
-vendor: Sejal Chauhan <tia747@gmail.com>
+vendor: Sejal Chauhan <sejalc@cs.wisc.edu>
 summary: bt for rpi2
 description: capture ble packets on rpi2
 icon: icon.png
